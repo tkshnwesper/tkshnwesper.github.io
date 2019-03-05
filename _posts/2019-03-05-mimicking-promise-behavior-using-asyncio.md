@@ -62,6 +62,8 @@ It is helpful when there is certain data that is needed by different threads of 
 The full program is as follows:
 
 ```python
+import asyncio
+
 async def return_hello():
   print('executes once')
   await asyncio.sleep(2)

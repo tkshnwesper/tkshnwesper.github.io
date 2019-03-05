@@ -41,7 +41,7 @@ task = asyncio.ensure_future(return_hello())
 print('runs before anything else')
 ```
 
-If we print something after the above line, it might get executed before the first line in the coroutine.
+If we print something after the `ensure_future` call, it might get executed before the first line in the coroutine.
 
 If we would like to obtain the result of our "promise", then all we got to say is:
 

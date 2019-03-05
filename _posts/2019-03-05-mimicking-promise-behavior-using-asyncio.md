@@ -25,7 +25,7 @@ Another thing I have found is, I need to always create an event loop to get thin
 event_loop = asyncio.new_event_loop()
 ```
 
-Now we need to set this event loop (no idea what this does, check the documentation I suppose).
+Now we need to set this event loop for the current context.
 
 ```python
 asyncio.set_event_loop(event_loop)

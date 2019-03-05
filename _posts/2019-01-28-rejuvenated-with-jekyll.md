@@ -4,8 +4,6 @@ title:  "Rejuvenated with Jekyll!"
 categories: news
 ---
 
-# Rejuvenated with Jekyll
-
 This blog has been brought back to life with Jekyll.
 
 Speaking of Jekyll, I think it has got a lot of good things going for it. For instance, its default theme `minima`. It's got everything that I need!

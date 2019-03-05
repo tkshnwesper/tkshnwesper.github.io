@@ -14,9 +14,9 @@ Let's say we have an ordinary python `async def` function that does nothing much
 
 ```python
 async def return_hello():
-    print('executes once')
-    await asyncio.sleep(2)
-    return 'hello_world'
+  print('executes once')
+  await asyncio.sleep(2)
+  return 'hello_world'
 ```
 
 Another thing I have found is, I need to always create an event loop to get things to work. So let's get to work!

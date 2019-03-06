@@ -6,8 +6,6 @@ categories: programming
 
 Python is a fascinating language. I have learnt many a new things while working on it, and a few surprises have come along the way as well. `asyncio` was definitely one of them. Perhaps because I had not seen anything like this before in Python. I've used Javascript extensively and understand the behavior of JS promises well. So I had a natural tendency to make things work in a similar manner in Python as well. However, looking at the documentation did not paint a clear picture in my head. Nor did reading up a couple of articles on the web, so I was forced to do a little experimentation of my own and find my way around this.
 
-Note: I am still not very comfortable using `asyncio` and frankly I have no idea when to use `await` because everytime I use it, the interpreter throws an error of some kind.
-
 Well anyway, I'll show ya what I have learnt so far.
 
 Let's say we have an ordinary python `async def` function that does nothing much but returns a string.

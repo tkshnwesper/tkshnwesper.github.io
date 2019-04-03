@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "React Final Form and Validation"
-categories: programming
+tags: [react, react-final-form]
+categories: [programming]
 ---
 
 # An example

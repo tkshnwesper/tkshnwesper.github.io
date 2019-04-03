@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Mimicking promise behavior using asyncio"
-categories: programming
+tags: [python, asynchronous programming]
+categories: [programming]
 ---
 
 Python is a fascinating language. I have learnt many a new things while working on it, and a few surprises have come along the way as well. `asyncio` was definitely one of them. Perhaps because I had not seen anything like this before in Python. I've used Javascript extensively and understand the behavior of JS promises well. So I had a natural tendency to make things work in a similar manner in Python as well. However, looking at the documentation did not paint a clear picture in my head. Nor did reading up a couple of articles on the web, so I was forced to do a little experimentation of my own and find my way around this.

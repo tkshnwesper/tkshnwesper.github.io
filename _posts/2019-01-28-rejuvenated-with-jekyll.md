@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Rejuvenated with Jekyll!"
-categories: news
+tags: [jekyll]
+categories: [news]
 ---
 
 This blog has been brought back to life with Jekyll.

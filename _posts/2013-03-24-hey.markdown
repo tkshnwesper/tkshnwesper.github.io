@@ -1,0 +1,18 @@
+---
+author: saurabh
+comments: true
+date: 2013-03-24 18:34:00+00:00
+layout: post
+link: https://blog.cryf.in/index.php/2013/03/24/hey/
+slug: hey
+title: Hey!
+wordpress_id: 18
+categories:
+- Dailies
+---
+
+Hello! I had wished to start a blog a long time ago, but my exams did not permit me to do so. My exams are in the past now, I have finally fulfilled my wish. This is my first blog, so you might notice a few things changing from time to time. I made this blog because I want to share with the world my many experiences. These experiences are not just events which happen in my life. They may be anything at all. I did not want to limit my scope because of the subject of this blog. So I decided to widen the scope of the subject. It is a blog about different topics all under one roof.  
+  
+I almost forgot to give you a brief introduction on me. I am a computer enthusiast, I love the internet, I love browsing and scavenging for information. Among my many hobbies are watching anime, talking to my best pal, reading books, listening to music, learning all kinds of different things, playing games and many more.  
+  
+A warm welcome to all the readers. I hope you enjoy!

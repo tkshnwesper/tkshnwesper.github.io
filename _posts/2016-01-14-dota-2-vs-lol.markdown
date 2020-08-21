@@ -1,12 +1,8 @@
 ---
-author: saurabh
-comments: true
 date: 2016-01-14 20:51:59+00:00
 layout: post
-link: https://blog.cryf.in/index.php/2016/01/14/dota-2-vs-lol/
 slug: dota-2-vs-lol
 title: Dota 2 vs. LoL
-wordpress_id: 255
 categories:
 - Reviews
 tags:

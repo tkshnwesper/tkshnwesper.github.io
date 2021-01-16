@@ -3,10 +3,8 @@ author: saurabh
 comments: true
 date: 2018-02-11 18:19:01+00:00
 layout: post
-link: https://blog.cryf.in/index.php/2018/02/11/into-the-world-of-japanimation/
 slug: into-the-world-of-japanimation
 title: Into the World of Japanimation
-wordpress_id: 388
 categories:
 - Dailies
 ---

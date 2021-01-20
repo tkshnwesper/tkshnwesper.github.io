@@ -8,7 +8,7 @@ Rust macros can be a little elusive mostly because of the lack of practical guid
 
 But overall it felt like a satisfying experience once I got things working. So let's begin!
 
-# Conventions
+## Conventions
 
 For now we will cover one of the macro types in Rust which are defined by `macro_rules`. The convention is to define macros as follows:
 

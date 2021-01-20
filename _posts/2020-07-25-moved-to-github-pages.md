@@ -2,7 +2,6 @@
 title: Moved to Github Pages!
 layout: post
 categories: [dailies]
-
 ---
 
 I've finally brought back my blog to life, and this time it's not going to disappear in the foreseeable future. I'm so glad! I've always been the kind of person to boot up a VPS to power my blog, but I felt that the whole VPS act was going under-utilized. Not only did it cost a not-so-insignificant amount of money, but nowadays I do not find time to maintain it anyway. So I decided to ditch it altogether!

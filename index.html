@@ -1,0 +1,39 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {% for post in paginator.posts %}
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  <span class="post-meta">{{ post.date | date: date_format }}</span>
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  {% endfor %}
+
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ '/' | relative_url }}" class="previous">⏮</a>
+    <a href="{{ paginator.previous_page_path }}" class="previous">◀️</a>
+    {% else %}
+    <span class="previous">⏮</span>
+    <span class="previous">◀️</span>
+    {% endif %}
+    <span class="page_number ">
+      {{ paginator.page }} of {{ paginator.total_pages }}
+    </span>
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">▶️</a>
+    <a href="{{ site.paginate_path | relative_url | replace: ':num', paginator.total_pages }}" class="next">⏭</a>
+    {% else %}
+    <span class="next">▶️</span>
+    <span class="next">⏭</span>
+    {% endif %}
+  </div>
+</div>

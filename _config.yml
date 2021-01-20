@@ -22,13 +22,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   A quiet blog that has found its final resting place
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tkshnwesper.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+paginate: 10
 github_username: tkshnwesper
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+rss: RSS
 minima:
   skin: dark
   social_links:

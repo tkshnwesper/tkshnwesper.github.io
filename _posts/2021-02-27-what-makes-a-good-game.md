@@ -1,0 +1,20 @@
+---
+title: What makes a good game?
+layout: post
+categories: [Gaming]
+---
+
+> Do you know what makes a good game?
+
+Have you ever thought of what makes a game good or bad? What makes it fun, or what makes it "not fun" for you. It's an interesting line of thought, and it's particularly hard to classify games as such, because games are meant to be fun, _right_?
+
+Let's look at it in another way. If games were meant to be fun, then how could they get boring? You might have had this thought if you've been in a situation where you had to play a game that you didn't want to or have had enough of. A lot of people would back away from games that can be mastered to a high level and require a great deal of practice to win at at the highest levels. I don't want to get into the topic of intelligence. We're all gifted with it, and we have the power to hone it to our will. One such game that gives you an opportunity to hone your intelligence is **Chess**. In recent times, I've taken another look at Chess and now I see it much differently that how I used to. My new outlook has changed my impression about the game. After years of playing Dota 2, Chess feels like a huge timesaver to begin with. But at the same time it involves much more intense thinking.
+
+While playing Dota 2, you'd mostly think about moving your character around, looking at the map, checking the time for runes and Roshan. That's a lot of different things to worry about. Granted that it is what defines Dota's characteristic gameplay and a significant amount of thinking on your feet and reacting to opponent's moves. But Chess requires a different kind of intelligence. The kind where you don't have to focus on moving your character around, or checking cooldowns, but your focus needs to solely lie on how you can outplay your opponent on each turn. When you go deep into the game, you'll realize how insanely complex it is. Let's maybe leave that discussion for another time.
+
+One of the board games that I wanted to talk about was **Catan**. I've been playing it since last year, and over the time I've felt that it's just not for me. The fact that I want to highlight the most about the game, or what I find most annoying is how hard the game punishes you for making a slight mistake. For example, if you place both your houses on bad spots which is definitely a possibility, because other's might have taken all the good ones, then it just gets very difficult to play the game. You might have to wait in agony for your stars to align and the dice to fall on one of your hexagons. Sometimes the board is aligned in such a way that there are very few good spots, and the players who get them don't even have to trade with others to win. There's no balance whatsoever.
+
+The other problem is there is no comeback mechanism. I don't want to compare this with other games, because this particular game dynamic cannot be seen in other games that I play. You'll notice that if you build close to other people, then there is definitely a possibility of their roads cutting off your ability to build roads of your own. This I believe is the most annoying feature of the game. At a certain point in the game, I've found myself with plenty of resources to build roads but no space to build them or the fact that building them will not grant me any benefits. It's like you are effectively stuck from doing anything other than upgrading your houses to hotels which caps the number of points you can earn. There should have been a way to build cross-cutting roads, or a comeback mechanic where you can remove roads built by others with the right resources. This problem can be mitigated with a larger sized board which my friends never agree to 🤷‍♂️
+
+And finally the last straw is how long each game of Catan takes. It takes an incredible amount of time. We used to play one game for about 90 minutes! That's how long you must endure the game's punishment and hostility toward its players. To add to the burn, your fate depends on the roll of a dice.
+I don't think I'll be playing it again in the near future 😛
